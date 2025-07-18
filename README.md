@@ -2,6 +2,10 @@
 mtgsig1.1 algorithm v2.0.1  H5
 
 mtgsig web h5 最新 1.2 h1.7 \ hs1.6 \ h1.8 (加密解密，js纯算)
+sdk 3.0.0
+sdk 3.1.0
+sdk 3.2.0
+sdk 3.2.1
 ![image](https://github.com/user-attachments/assets/d52c9eba-7df9-493e-89da-b617216ea1a0)
 
 ![image](https://github.com/liuyuanjun520/Mtgsig1.1_algorithm/assets/54762364/cb2cba14-475e-48e8-a4c7-20eaefe079df)
