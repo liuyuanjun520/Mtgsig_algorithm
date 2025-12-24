@@ -1,3 +1,6 @@
+# mtgsig3.0 App 纯算
+美团系 mtgsig3.0
+
 # Mtgsig1.1（2）_algorithm nodejs纯算
 mtgsig1.1 algorithm v2.0.1  H5
 
