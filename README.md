@@ -29,19 +29,10 @@ mtgsig1.2 algorithm  小程序
  
 # mtfingerpint algorithm  H5
 
-# 美团滑块验证 加密解密(小程序 and H5)
- - 滑块验证
- - 图形验证码验证
-# 美团数据采集完整方案，大众点评mtgsig1.2
-
 # 美团酒店差评筛选
-
-# 猫眼小程序mtgsig1.2, _token, fingerprint, txDeviceToken
 
 # 美团药店、超市，全量抓取
 > 可大量采集
-
-# 美团门票：陕西历史博物馆 pc微信小程完整方案+代码
 
 # 美团外卖菜单大量采集
 # Method
