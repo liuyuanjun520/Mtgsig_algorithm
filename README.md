@@ -1,5 +1,5 @@
 # mtgsig3.0 App 纯算
-美团系 mtgsig3.0
+美团app: mtgsig3.0
 
 # Mtgsig1.1（2）_algorithm nodejs纯算
 mtgsig1.1 algorithm v2.0.1  H5
@@ -14,6 +14,7 @@ sdk 4.0.3
 sdk 4.0.4
 sdk 4.1.1
 sdk 4.2.0
+sdk 4.3.0
 ![image](https://github.com/user-attachments/assets/d52c9eba-7df9-493e-89da-b617216ea1a0)
 
 ![image](https://github.com/liuyuanjun520/Mtgsig1.1_algorithm/assets/54762364/cb2cba14-475e-48e8-a4c7-20eaefe079df)
